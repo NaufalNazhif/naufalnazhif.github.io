@@ -19,3 +19,4 @@ Explore various information about housing price in South Tangerang City using **
 ### Wholesale & Retail
 [Publication](https://github.com/NaufalNazhif/wholesale-retail)
 
+Analyze the profit of the retail using **SQL** in Google Bigquery. Finding the most profit and least profit items and categories. Comparing profits every year from 2017 to 2021.
